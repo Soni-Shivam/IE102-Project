@@ -3,8 +3,9 @@
 ## Project Overview
 This project was a part of my course project IE102 - Probability and Statistics Course in my freshman year. We were assigned an open ended topic where we could build a project upon any topic related to the subjects we studied in this course. This project's main objective was to get a hand on experience at Linear Regression. This project aims to predict Formula 1 race performance by analyzing historical race data and various performance indicators. The model uses multi variable linear regression to predict the points a driver might score in a race based on multiple factors including qualifying position, team performance, weather conditions, and track characteristics.
 
-## Documentation
-The complete documentation of the project can be found [here](https://docs.google.com/document/d/e/2PACX-1vSYFxjFkRq2OfeOxZKt3Vj2irzQyRKWgNlc9Kmtgc1QL6VgJ4ApefXbqTSbv2AJrdHacDBZzx1cgRvu/pub).
+## FINAL REPORT
+📄 [Final Report (Google Docs)](https://docs.google.com/document/u/3/d/e/2PACX-1vSYFxjFkRq2OfeOxZKt3Vj2irzQyRKWgNlc9Kmtgc1QL6VgJ4ApefXbqTSbv2AJrdHacDBZzx1cgRvu/pub)
+
 
 ## Problem Statement
 Formula 1 racing is a complex sport where multiple factors influence a driver's performance. The challenge is to:
