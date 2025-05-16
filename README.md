@@ -1,8 +1,8 @@
 # IE102 – Probability and Statistics Projects (Freshman Year)
 
-This repository contains two open-ended projects completed as part of **IE102: Introduction to Probability and Statistics**, a freshman year course at **IIT Bombay**.
+This repository contains two open-ended projects completed as part of **IE102: Introduction to Probability and Statistics**, a freshman year course at **IIT Bombay**
 
-In this course, the final project topics were open-ended — students were encouraged to explore **anything related to probability and statistics**. These projects were intended to be short and exploratory, helping us apply what we learned in class while getting hands-on experience with modeling, coding, and analysis.
+In this course, the final project topics were open-ended — students were encouraged to explore **anything related to probability and statistics**. These projects were intended to be short and exploratory, helping us apply what we learned in class while getting hands-on experience to the simulating.
 
 These are my takes on the assignment:
 
