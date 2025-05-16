@@ -35,11 +35,7 @@ Analyzes the size of the **largest connected component** as `p` increases, demon
 ### `epidemic_spread.py`
 Models the **spread of an epidemic** over a random graph, showing how network randomness affects infection dynamics — a practical application of random graphs in real-world problems.
 
-### `clustering_vs_random.py`
-Compares the **clustering coefficient** between deterministic graphs (like lattices) and Erdős–Rényi graphs, highlighting the lack of local clustering in purely random networks.
-
-### `graphs.py`
-A utility file that helps with generating graphs using **NetworkX** and visualizing them with **Matplotlib**.
+And some utility files that helps with generating graphs using **NetworkX** and visualizing them with **Matplotlib**.
 
 ---
 
