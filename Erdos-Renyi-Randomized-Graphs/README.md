@@ -43,10 +43,8 @@ And some utility files that helps with generating graphs using **NetworkX** and 
 
 - Threshold phenomena in random graphs
 - Emergence of a giant component
-- Probabilistic simulations and statistical averaging
 - Modeling real-world networks and epidemic dynamics
-- Differences between structured and random networks
-
+- More can be read in the report linked in this readme file
 ---
 
 ## ⚙️ How to Run
