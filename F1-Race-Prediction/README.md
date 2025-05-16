@@ -13,9 +13,9 @@ Formula 1 racing is a complex sport where multiple factors influence a driver's 
 - Create a model that can be used for race strategy and performance analysis
 
 ## Data Sources
-The project utilizes the following datasets from Kaggle:
+The project utilizes the following datasets:
 - Formula 1 World Championship (1950-2020) dataset on Kaggle
-- Additional weather data categorized for each race, found out by web scraping on Wikipedia and classifying them into categories
+- Additional weather data categorized for each race, that I found out by web scraping on Wikipedia and classifying them into categories
 
 ## Features Used
 The model incorporates several key features:
